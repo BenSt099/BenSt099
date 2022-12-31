@@ -1,4 +1,4 @@
 [source,Shell]
 ----
-echo Hi;-)
+echo Hi ;)
 ----
